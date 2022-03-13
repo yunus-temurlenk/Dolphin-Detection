@@ -1,0 +1,5 @@
+classes = 1
+train  = /home/code/Documents/training/train_dolphin.txt
+valid  = /home/code/Documents/training/test_dolphin.txt
+names = /home/code/Documents/training/classes.names
+backup = /home/code/Documents/training
