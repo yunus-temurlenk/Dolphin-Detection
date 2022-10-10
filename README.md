@@ -1,5 +1,5 @@
 # Dolphin-Detection
-Includes the YOLO-wieght files to detect dolpins
+Includes the YOLO-weight files to detect dolpins
 
 # [Youtube Link](https://www.youtube.com/watch?v=kFm1MvcHKOw)
 
